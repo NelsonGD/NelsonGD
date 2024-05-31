@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nelson. (@NelsonGD)
-- 👀 I’m interested in tennis, technology, anime, and aesthetic in general.
-- 🌱 I’m currently learning new tennis skills, improving my mental health, and chemistry.
-- 💞️ I’m looking to collaborate on anything, I look forward to have a partner to work with on anything.
-- 📫 How to reach me, my email is nelsongael.diaz@gmail.com.
+- 👀 I’m interested in tennis, technology, anime, and aesthetics in general.
+- 🌱 I’m learning new things about coffee, improving my mental health, and computer science.
+- 💞️ I’m looking to collaborate on anything and look forward to having a partner to work with.
+- 📫 How to reach me, my email is nelsongael.diaz@gmail.com
 
 <!---
 NelsonGD/NelsonGD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
